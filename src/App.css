@@ -95,7 +95,14 @@
   height: 40vh;
   width: 20vw;
 }
+.favourites-genres{
+  padding: 3rem;
+}
 
+.favourites-table{
+  padding: 3rem;
+  overflow: auto;
+}
 @media screen and (max-width:400px){
   .banner-card{
     height:30vh;
